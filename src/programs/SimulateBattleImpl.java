@@ -87,7 +87,8 @@ public class SimulateBattleImpl implements SimulateBattle {
         System.out.println("\n-------------------------------------------------------" +
                 "\nMethod SimulatedBattleImpl" +
                 "\n\tExpected complexity n^2 * log n = " + Math.pow(totalUnits, 2) * Math.log(totalUnits) / Math.log(2)
-                + "\n\tActual complexity = " + count + "\n-------------------------------------------------------");
+                + "\n\tActual complexity n * m = " + count + ", где m - кол-во раундов, n кол-во поочередных атак в раунде"
+                + "\n-------------------------------------------------------");
 
         System.out.println("\n-------------------------------------------------------" +
                 "\nMethod SuitableForAttackUnitsFinderImpl" +
