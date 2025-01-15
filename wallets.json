@@ -1,0 +1,46 @@
+{
+  "Galay": {
+    "user": {
+      "username": "Galay",
+      "password": "123",
+      "beginBalance": 2353.32
+    },
+    "categories": {
+      "expensesCat": {
+        "Авто": 2334.0,
+        "Еда": 3423.23
+      },
+      "incomeCat": [
+        "Зарплата"
+      ]
+    },
+    "incomeTransactions": [
+      {
+        "operation": "INCOME",
+        "category": "Зарплата",
+        "amount": 2314.0,
+        "comment": "за Декабрь"
+      }
+    ],
+    "expenseTransactions": [
+      {
+        "operation": "EXPENSE",
+        "category": "Еда",
+        "amount": 1000.0
+      }
+    ]
+  },
+  "test": {
+    "user": {
+      "username": "test",
+      "password": "test",
+      "beginBalance": 23.0
+    },
+    "categories": {
+      "expensesCat": {},
+      "incomeCat": []
+    },
+    "incomeTransactions": [],
+    "expenseTransactions": []
+  }
+}
