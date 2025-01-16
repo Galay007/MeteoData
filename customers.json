@@ -1,0 +1,23 @@
+{
+  "ce4f32b1-d6dc-4cf2-9fe6-ba56913aebde": {
+    "user": {
+      "uuid": "ce4f32b1-d6dc-4cf2-9fe6-ba56913aebde"
+    },
+    "shortLinks": {
+      "clck.ru/b79a7e": {
+        "url": "https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+MIFIDEV+SEP2024/progress",
+        "shortLink": "clck.ru/b79a7e",
+        "clickLimit": 5,
+        "clickUsed": 0,
+        "timeExpire": "2025-01-16T18:37:59.6107983"
+      },
+      "clck.ru/49d8fa": {
+        "url": "https://mail.ru",
+        "shortLink": "clck.ru/49d8fa",
+        "clickLimit": 5,
+        "clickUsed": 0,
+        "timeExpire": "2025-01-16T18:45:16.2094402"
+      }
+    }
+  }
+}
